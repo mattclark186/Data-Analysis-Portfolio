@@ -2,10 +2,10 @@
 This is my portfolio of data analysis projects I've done. They involve obtaining data, data cleaning and data visualisation using tools such as Python, SQL and Tableau.
 
 
-# 1 - Football Wages
+# 1 - Football Wages Analysis
 Python, SQL, Tableau
 
-**Goal:** To investigate whether the best football (soccer) players get paid the most money. 
+**Goal:** To investigate whether the best football (soccer) players get paid the highest wages. 
 
 **Description:** The dataset was scraped from a website using Python. It contained information about different football teams from different European countries over the previous 10 seasons - specifically how much they paid their players and how well the teams performed. The data was then cleaned in MySQL and manipulated into useful tables. The tables were imported into Tableau to be visualised. 
 
