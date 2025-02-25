@@ -5,7 +5,7 @@ This is my portfolio of data analysis projects I've done. They involve obtaining
 # 1 - Football Wages Analysis
 Python, SQL, Tableau
 
-[Project](https://github.com/mattclark186/Football-Wages-Project/blob/main/Football%20Wages%20Analysis.pdf)
+[Project (pdf)](https://github.com/mattclark186/Football-Wages-Project/blob/main/Football%20Wages%20Analysis.pdf)
 
 [Repository](https://github.com/mattclark186/Football-Wages-Project)
 
