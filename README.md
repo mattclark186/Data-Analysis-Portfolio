@@ -6,6 +6,7 @@ This is my portfolio of data analysis projects I've done. They involve obtaining
 Python, SQL, Tableau
 
 [Project](https://github.com/mattclark186/Football-Wages-Project/blob/main/Football%20Wages%20Analysis.pdf)
+
 [Repository](https://github.com/mattclark186/Football-Wages-Project)
 
 **Goal:** To investigate whether the best football (soccer) players get paid the highest wages. 
