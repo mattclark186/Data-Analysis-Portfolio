@@ -2,7 +2,7 @@
 This is my portfolio of data analysis projects I've done. They involve obtaining data, data cleaning and data visualisation using tools such as Python, SQL and Tableau.
 
 
-## 1 Data Cleaning
+## 1 - Data Cleaning
 SQL, Python
 
 [Data Cleaning Projects](https://github.com/mattclark186/Data-Cleaning/tree/main)
