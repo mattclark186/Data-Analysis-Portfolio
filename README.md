@@ -2,7 +2,13 @@
 This is my portfolio of data analysis projects I've done. They involve obtaining data, data cleaning and data visualisation using tools such as Python, SQL and Tableau.
 
 
-# 1 - Football Wages Analysis
+## 1 Data Cleaning
+SQL, Python
+
+[Data Cleaning Projects](https://github.com/mattclark186/Data-Cleaning/tree/main)
+
+
+## 2 - Football Wages Analysis Project
 Python, SQL, Tableau
 
 [Project (pdf)](https://github.com/mattclark186/Football-Wages-Project/blob/main/Football%20Wages%20Analysis.pdf)
