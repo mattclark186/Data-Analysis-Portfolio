@@ -6,6 +6,8 @@ This is my portfolio of data analysis projects I've done. They involve obtaining
 ## 2 - Podcast
 SQL, Excel
 
+[Full Analysis](https://github.com/mattclark186/Podcast)
+
 ## 3 - Data Cleaning
 SQL, Python
 
